@@ -1,0 +1,10 @@
+{
+  "name": "设计理论随身背",
+  "short_name": "理论随身背",
+  "description": "设计考研理论知识库｜碎片化背诵｜答题模板训练",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#faf6ef",
+  "theme_color": "#faf6ef",
+  "orientation": "portrait"
+}
